@@ -1,0 +1,5 @@
+com\tianhy\service\IPaymentService.class
+com\tianhy\App.class
+com\tianhy\service\IHelloService.class
+com\tianhy\request\RpcRequest.class
+com\tianhy\dto\User.class
